@@ -1,0 +1,15 @@
+2020-06-25-10:11:56.141 INFO [config]  Config ( no ): user properties from -Drsk.conf.file file 'null'
+2020-06-25-10:11:56.150 INFO [config]  Config ( no ): default properties from installer '/etc/rsk/node.conf'
+2020-06-25-10:11:57.578 DEBUG [c.r.b.c.Context]  Creating bitcoinj 0.14.4 context.
+2020-06-25-10:11:58.028 INFO [general]  *** Loaded up to block [260] totalDifficulty [261] with stateRoot [8a07d13e044da6f16b6e13dbc3989253543fd9dd3f4724e11db3b1253c1259a2]
+2020-06-25-10:11:58.059 INFO [general]  Public IP wasn't set or resolved, using https://checkip.amazonaws.com to identify it...
+2020-06-25-10:11:59.619 INFO [general]  Identified public IP: /181.165.243.39
+2020-06-25-10:12:38.707 INFO [config]  Config ( no ): user properties from -Drsk.conf.file file 'null'
+2020-06-25-10:12:38.711 INFO [config]  Config ( no ): default properties from installer '/etc/rsk/node.conf'
+2020-06-25-10:12:39.612 DEBUG [c.r.b.c.Context]  Creating bitcoinj 0.14.4 context.
+2020-06-25-10:12:39.841 INFO [general]  *** Loaded up to block [260] totalDifficulty [261] with stateRoot [8a07d13e044da6f16b6e13dbc3989253543fd9dd3f4724e11db3b1253c1259a2]
+2020-06-25-10:12:39.861 INFO [general]  Public IP wasn't set or resolved, using https://checkip.amazonaws.com to identify it...
+2020-06-25-10:12:41.380 INFO [general]  Identified public IP: /181.165.243.39
+2020-06-25-10:12:54.321 INFO [config]  Config ( no ): user properties from -Drsk.conf.file file 'null'
+2020-06-25-10:12:54.324 INFO [config]  Config ( no ): default properties from installer '/etc/rsk/node.conf'
+2020-06-25-10:12:54.328 INFO [config]  Network not set, using mainnet by default
